@@ -111,7 +111,7 @@ Password : password
 
 ### Login Page
 
-![Login](Screenshots/login page.png)
+![Login](Screenshots/loginpage.png)
 
 ### Login & Registration
 
@@ -123,15 +123,15 @@ Password : password
 
 ### Exam Page
 
-![Exam Page](Screenshots/exam page.png)
+![Exam Page](Screenshots/exampage.png)
 
 ### Exam Manage 
 
-![Exam Manage](Screenshots/exam manage.png)
+![Exam Manage](Screenshots/exammanage.png)
 
 ### Result page 
 
-![Result Page](Screenshots/result page.png)
+![Result Page](Screenshots/resultpage.png)
 
 # 👩‍💻 Author
 
