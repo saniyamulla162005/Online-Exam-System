@@ -70,9 +70,7 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 git clone https://github.com/saniyamulla162005/Online-Exam-System.git
 cd Online-Exam-System
 ```
-
 ---
-
 ### ✔️ Start the Application
 
 Open the project → Run:
@@ -93,7 +91,7 @@ Access H2 Console:
 
 ```
 JDBC URL : jdbc:h2:file:./data/examdb  
-Username : sa  
+Username : sa
 Password : password
 ```
 
@@ -107,7 +105,35 @@ Password : password
 
 ---
 
-## 👩‍💻 Author
+
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](Screenshots/login page.png)
+
+### Login & Registration
+
+![Register](Screenshots/login.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](Screenshots/dashboard.png)
+
+### Exam Page
+
+![Exam Page](Screenshots/exam page.png)
+
+### Exam Manage 
+
+![Exam Manage](Screenshots/exam manage.png)
+
+### Result page 
+
+![Result Page](Screenshots/result page.png)
+
+# 👩‍💻 Author
 
 **Saniya Mulla**
 
