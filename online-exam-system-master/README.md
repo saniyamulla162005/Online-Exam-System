@@ -67,8 +67,8 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 ### ✔️ Clone the Repository
 
 ```bash
-git clone https://github.com/sumitkumar1503/online-exam-system.git
-cd online-exam-system
+git clone https://github.com/saniyamulla162005/Online-Exam-System.git
+cd Online-Exam-System
 ```
 
 ---
@@ -106,6 +106,14 @@ Password : password
 | admin | adminpass |
 
 ---
+
+## 👩‍💻 Author
+
+**Saniya Mulla**
+
+- BE Computer Science & Engineering Student
+- Java & Spring Boot Developer
+- Passionate about Backend Development and AI
 
 # 📜 License
 
