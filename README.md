@@ -74,12 +74,17 @@ admin   	adminpass
 
 
 👩‍💻 Author
+
 Saniya Mulla
+
 BE Computer Science & Engineering Student
+
 Java & Spring Boot Developer
+
 Passionate about Backend Development and AI
 
 
 📜 License
+
 This project is open-source under the MIT License.
 
